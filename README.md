@@ -43,6 +43,7 @@ Copy
 Edit
 
 ### Server (Node.js + Express)
+```bash
 server/
 │── src/
 │ ├── config/
