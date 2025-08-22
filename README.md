@@ -4,7 +4,7 @@ A real-time 1:1 chat application built with **React Native** (frontend) and **No
 Messages are stored in **MongoDB** and the app features JWT-based authentication, online/offline status, typing indicators, and message delivery/read receipts.
 
 ---
-
+```bash
 ## 📂 Project Structure
 
 ### Mobile (React Native)
@@ -43,7 +43,7 @@ Copy
 Edit
 
 ### Server (Node.js + Express)
-```bash
+
 server/
 │── src/
 │ ├── config/
