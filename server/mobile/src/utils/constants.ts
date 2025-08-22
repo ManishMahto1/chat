@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://w67d4y-5000.csb.app';
